@@ -2,8 +2,10 @@
 
 AI Workshop 
 
-Date: 26 June / 30 June 2022 \n
-Time: 2pm – 6.20pm (GMT+8) \n
+Date: 26 June / 30 June 2022 
+
+Time: 2pm – 6.20pm (GMT+8) 
+
 Venue: Faculty of Computer Science & Information Technology, Universitiy Malaya \n\n
 
 Tentative Programme: \n
