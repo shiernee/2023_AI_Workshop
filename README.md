@@ -1,7 +1,6 @@
 # Introduction to AI: Hands-on Coding Training
 
-AI Workshop 
-
+AI Workshop <br />
 Date: 26 June / 30 June 2022 
 
 Time: 2pm – 6.20pm (GMT+8) 
