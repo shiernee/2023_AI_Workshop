@@ -1,6 +1,7 @@
 # Introduction to AI: Hands-on Coding Training
 
-AI Workshop \n
+AI Workshop 
+
 Date: 26 June / 30 June 2022 \n
 Time: 2pm – 6.20pm (GMT+8) \n
 Venue: Faculty of Computer Science & Information Technology, Universitiy Malaya \n\n
