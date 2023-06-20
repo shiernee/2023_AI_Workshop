@@ -10,6 +10,7 @@ Venue: Faculty of Computer Science & Information Technology, University Malaya
 
 
 
+
 Tentative Programme: 
 
 200pm - 230pm - Introduction of Machine Learning 
